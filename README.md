@@ -1,5 +1,5 @@
 # JavaScript Basic
-This repository is a collection of foundational JavaScript concepts and exercises, designed to help beginners learn and practice essential JavaScript skills. It covers key topics such as variables, data types, functions, control structures, arrays, and objects, providing hands-on examples and explanations. Whether you're starting from scratch or brushing up on your knowledge, this repo serves as a useful resource for mastering the basics of JavaScript.
+This repository is a collection of foundational JavaScript concepts and exercises, designed to help beginners learn and practice essential JavaScript skills. It covers key topics such as functions, control structures, arrays, objects and oop concept, providing hands-on examples and explanations. Whether you're starting from scratch or brushing up on your knowledge, this repo serves as a useful resource for mastering the basics of JavaScript.
 
 ## Features:
 * Clear and concise examples for each JavaScript concept
